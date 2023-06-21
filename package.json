@@ -1,0 +1,14 @@
+{
+  "name": "ftp",
+  "version": "1.0.0",
+  "description": "prueba de tranferencia de archivo con el protocolo ftp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin F Ortega Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^5.0.3"
+  }
+}
